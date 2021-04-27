@@ -1,0 +1,31 @@
+{
+  "name": "anyword",
+  "version": "1.0.0",
+  "description": "Providing a collection of utils to help you know the word.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franquil/anyword.git"
+  },
+  "keywords": [
+    "word",
+    "translate",
+    "translation",
+    "languages",
+    "dictionary",
+    "spell",
+    "check",
+    "spell",
+    "thesaurus",
+    "synonym"
+  ],
+  "author": "Frank Q Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franquil/anyword/issues"
+  },
+  "homepage": "https://github.com/franquil/anyword#readme"
+}
